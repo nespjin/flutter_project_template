@@ -6,6 +6,7 @@
 ### Flutter Samples
 
 - [flutter-folio](https://github.com/gskinnerTeam/flutter-folio)
+- [flutterfire](https://github.com/firebase/flutterfire)
 
 ### [Flutter](https://docs.flutter.dev/)
 
