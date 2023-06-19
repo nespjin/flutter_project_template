@@ -27,4 +27,4 @@ fvm flutter create -t package --no-pub --project-name record feature/record
 fvm flutter create -t package --no-pub --project-name backup feature/backup
 
 # othre
-fvm flutter create -t package --no-pub --project-name sync sync
+fvm flutter create -t package --no-pub --project-name sync_data sync_data
