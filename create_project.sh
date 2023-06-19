@@ -1,6 +1,8 @@
 mkdir core
 mkdir feature
 
+fvm flutter create -t app --no-pub --project-name app app
+
 # core
 fvm flutter create -t package --no-pub --project-name common core/common
 fvm flutter create -t package --no-pub --project-name database core/database
