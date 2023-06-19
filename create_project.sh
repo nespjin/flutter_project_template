@@ -1,7 +1,7 @@
 mkdir core
 mkdir feature
 
-fvm flutter create -t app --no-pub --project-name app app
+fvm flutter create -t app --org com.nesp.passstore --no-pub --project-name app app
 
 # core
 fvm flutter create -t package --no-pub --project-name common core/common
