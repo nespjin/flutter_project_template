@@ -15,11 +15,13 @@ fvm flutter create -t package --no-pub --project-name model core/model
 fvm flutter create -t package --no-pub --project-name data core/data
 fvm flutter create -t package --no-pub --project-name domain core/domain
 fvm flutter create -t package --no-pub --project-name ui core/ui
+fvm flutter create -t package --no-pub --project-name resources core/resources
 fvm flutter create -t package --no-pub --project-name designsystem core/designsystem
 
 # feature
 fvm flutter create -t package --no-pub --project-name settings feature/settings
 fvm flutter create -t package --no-pub --project-name home feature/home
+fvm flutter create -t package --no-pub --project-name tools feature/tools
 fvm flutter create -t package --no-pub --project-name search feature/search
 fvm flutter create -t package --no-pub --project-name importer feature/importer
 fvm flutter create -t package --no-pub --project-name exporter feature/exporter
